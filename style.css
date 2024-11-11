@@ -132,7 +132,7 @@ p{
 }
 .website-col{
     flex-basis:31%;
-    background:#8f6441be;
+    background:#f54fd9be;
     border-radius:10px;
     margin-bottom:5%;
     padding:20px 12px;
@@ -266,7 +266,7 @@ color:#f44336;
 /*------------call to action-----*/
 .cta{
     margin: 100px;
-    width:90%;
+    width:84%;
     background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/T.jpg);
     background-position:center;
     background-size:cover;
@@ -277,7 +277,7 @@ color:#f44336;
 }
 .cta{
     color:#fff;
-    margin-bottom:40px;
+    margin-bottom:50px;
     padding: 50px;
 
 }
